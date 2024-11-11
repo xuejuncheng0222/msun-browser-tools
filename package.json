@@ -1,0 +1,15 @@
+{
+  "name": "msun-browser-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "install": "pnpm install -r"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
